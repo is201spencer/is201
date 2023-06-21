@@ -1,0 +1,25 @@
+p{ /* Element link*/
+    font-weight: bold;
+    font-size: 15px;
+}
+#top{ /* Id selector*/
+    text-decoration: underline;
+}
+.emphasizetext{ /* Class selector*/
+    font-style: italic;
+    color: darkgrey;
+}
+body{
+    background-color:#fffde1;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    border: 5px solid black;
+    margin: 10px;
+    padding: 10px;
+}
+ul{
+    list-style-position: inside;
+}
+ol{
+    list-style-position: inside;
+}
